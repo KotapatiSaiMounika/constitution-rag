@@ -1,0 +1,8 @@
+[
+  {"q": "What is the right to life and personal liberty?",
+   "must_contain": "No person shall be deprived of his life or personal liberty"},
+  {"q": "Who appoints the Prime Minister?",
+   "must_contain": "Prime Minister shall be appointed by the President"},
+  {"q": "How can the President be impeached?",
+   "must_contain": "Procedure for impeachment of the President"}
+]
